@@ -1,0 +1,1 @@
+# genaiQNA_basicproj
